@@ -41,9 +41,16 @@ h2{
 .half-width img{
     width:85%;
 }
-.link-button{
+.link-button-hire{
     text-decoration: none;
     background-image: linear-gradient(rgb(182, 9, 153), rgb(72, 64, 219));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color:white;
+}
+.link-button-download{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(10, 205, 231), rgb(72, 64, 219));
     padding: 10px 40px;
     border-radius: 5px;
     color:white;
